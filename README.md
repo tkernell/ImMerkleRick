@@ -3,7 +3,7 @@
 
 1. We have a document segmented into clauses.  For this example, lets say our document contains 2 clauses.
 
-Doc = [c1, c2]
+  Doc = [c1, c2]
 
 2. Encrypt the document using a one time pad stream of data and segment the pad data in regards to the clauses it encrypts.
 
