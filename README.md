@@ -1,5 +1,4 @@
 # ImMerkleRick
-one time pad document thing
 
 
 1. We have a document segmented into clauses.  For this example, lets say our document contains 2 clauses.
