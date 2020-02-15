@@ -34,3 +34,9 @@
   
 6. Store Merkle Roots of both the document and the OTP key data in smart contract.
 
+
+Thoughts:
+- What about storing merkle root of OTP key & the merkle root of encrypted document?  If multiple parties use the same document language (clauses), we dont want to leak data about similarities of document content by storing the same merkle roots associated to the documents.
+
+
+
